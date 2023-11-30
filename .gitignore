@@ -1,0 +1,15 @@
+# IntelliJ project files
+/.idea
+/*.iml
+
+# Compiled files
+/bin
+/dist
+/log
+/cover
+*.exe
+*.log
+
+# Dev files
+github-webhook*.yaml
+github/Add webhook.html
