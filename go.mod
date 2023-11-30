@@ -5,7 +5,7 @@ go 1.21
 require (
 	github.com/starudream/go-lib/cobra/v2 v2.0.4
 	github.com/starudream/go-lib/core/v2 v2.0.12
-	github.com/starudream/go-lib/resty/v2 v2.0.6
+	github.com/starudream/go-lib/resty/v2 v2.0.7
 )
 
 require (
@@ -20,7 +20,7 @@ require (
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
 	github.com/containerd/console v1.0.4-0.20230313162750-1ae8d489ac81 // indirect
 	github.com/fatih/color v1.16.0 // indirect
-	github.com/go-resty/resty/v2 v2.10.0 // indirect
+	github.com/go-resty/resty/v2 v2.9.1 // indirect
 	github.com/goccy/go-json v0.10.2 // indirect
 	github.com/goccy/go-yaml v1.11.2 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
